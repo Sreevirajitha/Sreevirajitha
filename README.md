@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sreevirajitha
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning DSA using JAVA
+- 🌱 I’m currently mastering DSA using JAVA
 - 📫 How to reach me https://www.linkedin.com/in/sree-virajitha-ramaraju-792b2b244/
 
 <!---
