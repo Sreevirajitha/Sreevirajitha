@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sreevirajitha
-- 👀 I’m interested in Programing, Machine Learning, Data Science
+- 👀 I’m interested in Programing, Machine Learning
 - 🌱 I’m currently mastering DSA using JAVA
 - 📫 How to reach me https://www.linkedin.com/in/sree-virajitha-ramaraju-792b2b244/
 
